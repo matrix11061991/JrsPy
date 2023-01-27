@@ -1,2 +1,2 @@
 # YnuTil
-Mon Mini framework python appelé ** YnuTil **
+Mon Mini framework python appelé **YnuTil**
