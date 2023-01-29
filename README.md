@@ -1,6 +1,6 @@
 # YnuTil
 Mon Mini framework python appelé **YnuTil**
-
+```bash
 YnuTil/
 |-- YnuTil/
 |   |-- __init__.py
@@ -15,7 +15,7 @@ YnuTil/
 |-- requirements.txt
 |-- setup.py
 |-- README.md
-
+```
 YnuTil/ : dossier principal qui contient les fichiers de code source pour le projet.
 YnuTil/ : sous-dossier qui contient les modules de base pour le projet.
 tests/ : dossier qui contient les tests unitaires pour les différentes parties du projet.
